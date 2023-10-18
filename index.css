@@ -174,7 +174,7 @@ span:hover{
     .sobreposition{
         position: absolute;
         left: 50%;
-        top: 38%;
+        top: 36%;
         transform: translate(-50%, -41%);
         background-color: hsl(178, 100%, 50%, 50%);
         opacity: 0;
